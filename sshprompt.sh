@@ -10,8 +10,8 @@ read -p "What is your port?" port
 echo "Port is now $port"
 
 function pause(){
-   read -p "$*"
+read -p "$*"
 ssh $username@$external -p $port
 }
 
-pause 'Press [Enter] If you are ready to take the Red Pill down SSH'
+pause 'Press [Enter] If you are ready to take the Red Pill down Alice and Wonderland SSH'
