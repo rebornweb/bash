@@ -6,7 +6,6 @@ echo "File name is $fileName"
 read -p "Enter your Commit Comment if any please: "  cComment
 echo "Commit is $cComment"
 
-read -p "Enter Repo or branchname: " branch
 
 function update(){
 read -p "$*"
@@ -14,13 +13,15 @@ ssh $username@$external -p $port
 
 git add $fileName
 git commit -m "$cComment"
-git checkout $branch
+git checkout 
 
 
-read -p "Will push origin master please Press [Enter]"
+read -p "Will push origin please Press [Enter]"
 git push origin
-git merge master
+git merge origin 
+
 
 }
 
+#Run 
 update 'Press [Enter] *Again If you are ready to take the Red Pill down Alice and Wonderland SSH'
