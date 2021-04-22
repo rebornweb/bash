@@ -18,7 +18,7 @@ git checkout $branch
 
 
 read -p "Will push origin master please Press [Enter]"
-git push origin master
+git push origin
 git merge master
 
 }
