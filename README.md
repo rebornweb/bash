@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Linux, Bash, Cloud and Everything in between 
 
 ,,;,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::::::cccc:::cccccllllllllodooollllooooodddddddxxddddddodddd
@@ -52,3 +53,9 @@ xd:..........',;;,'......       .,. ..                          ,x000KKkOXNl..  
 |_|  \___|\__,_|\___/|_|  \__,_|  \___/|____/ 
                                               
 
+=======
+# Scripting written in Linux distros 
+Most scripts written with Vi/Vim
+Shell Scripts
+Python scripts 
+>>>>>>> 8a85cc02b763a4d5ccc89a551e4d472ec1f9758c

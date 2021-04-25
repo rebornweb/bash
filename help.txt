@@ -1,0 +1,36 @@
+#First
+ssh-keygen -t rsa -C emailaccount@outlook.com
+
+#Make sure your pub key exists
+
+cat /home/master/.ssj/id_rsa.pub
+
+#Upload ssh key in github platform settings
+
+#Clone local copy repo
+git clone git_repo_url
+
+#Use git init if need be
+
+#Add files to local PC
+git add file
+
+#Commit & update with comment
+git commit -am "My comment"
+
+#Add remote
+git remote add origin repo_url/repo.git
+
+#Test git remote
+git remote -v
+
+#Push changes
+git push origin master
+
+#Check out if want to create branch copy
+
+git checkout branchname
+
+#Merge if want to
+
+git merge master
