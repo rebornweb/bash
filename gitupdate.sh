@@ -12,7 +12,7 @@ read -p "$*"
 ssh $username@$external -p $port
 
 git add $fileName
-git commit -m "$cComment"
+git commit -am "$cComment"
 git checkout 
 
 
