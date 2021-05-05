@@ -14,7 +14,6 @@ ageInt = int(age)
 centInt = int((100 - ageInt)  + year)
 cent = str(centInt)
 
-print("You will be 100 years young at year " + cent)
+print("You will be 100 years young at year " + cent + " You will Receive the Queens Congratulatory Message soon.")
 
-#print (fullName + " You will turn 100 tomorrow Happy Birthday! You will receive a food voucher ")
 
