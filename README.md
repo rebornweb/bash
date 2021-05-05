@@ -1,5 +1,6 @@
 #Python, Vim, Bash, Cloud and Everything in between
 ```
+<sub>
 ,,;,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::::::cccc:::cccccllllllllodooollllooooodddddddxxddddddodddd
 ,,,;;;;;;;;;;;;,,,,,,,;;;;;,,,,,;;;;:::::cccccccccccccc::::ccccclllllllllllllllllllloodddddooooodddo
 ,;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;:::cccccccc::::cccccccccccccclllllllllllllcllooooododdoooooool
@@ -39,6 +40,7 @@ xd:..........',;;,'......       .,. ..                          ,x000KKkOXNl..  
                                                               ........':oKO        ''.'.'ld:.,.'',;;
                      ,;.'d'                                   ........';OKl         ......dxk;.    
 
+ </sub>
  _   _       _         ___        __ _       _ _         
 | | | | __ _| | ___   |_ _|_ __  / _(_)_ __ (_) |_ _   _ 
 | |_| |/ _` | |/ _ \   | || '_ \| |_| | '_ \| | __| | | |
