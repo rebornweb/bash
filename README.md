@@ -1,4 +1,4 @@
-#Python, Vim, Bash, Cloud and Everything in betwee
+#Python, Vim, Bash, Cloud and Everything in between
 ```
 ,,;,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::::::cccc:::cccccllllllllodooollllooooodddddddxxddddddodddd
 ,,,;;;;;;;;;;;;,,,,,,,;;;;;,,,,,;;;;:::::cccccccccccccc::::ccccclllllllllllllllllllloodddddooooodddo
