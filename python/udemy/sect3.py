@@ -16,15 +16,14 @@ animal = 'cat'; vegetable = 'broccoli'; mineral = 'gold'
 print('Here is an ' + animal + ', a ' + vegetable + ', and a mineral ' + mineral + '.')
 
 #Input
-print('Please type something and press enter:')
-x = input ()
+x = input ('Please type something and press enter:')
 print('You entered: \n' + x )
 
 #Input Cat
-print('The Cat says....')
-talk = input ()
-print('-' * 10)
-print ('< ' + talk + ' >')
-print('_' * 10)
+talk = input ('The Cat says....')
+talk_length = len(talk)
+print('  {}'.format('-' * talk_length))
+print('< {} >'.format( talk ))
+print('  {} '.format ( '_' * talk_length ))
 print('         /')
 print( ' /\_/\  /\n( o.o )\n > ^ <')
