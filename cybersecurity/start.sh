@@ -7,7 +7,7 @@
 #Jump in container
 docker exec -it kali bash
 #Ref https://www.kali.org/tools/
-#RUN apt update && apt -y install kali-linux-default && apt install -y kali-tools-top10
+#RUN apt update && apt -y install kali-linux-headless && apt install -y kali-tools-top10 && apt install -y bind9-dnsutils
 
 #Copy container to new image then bind local volumn
 #docker commit 86e1a14e53e3 kali_updated
