@@ -1,0 +1,11 @@
+Hello World!!
+This is RH024
+
+useradd john
+groupadd beatles
+usermod -aG beatles john
+#File permissions
+read-write-execute
+user-group-other
+chmod u+rwx /common
+usermod -a -G groupname username
